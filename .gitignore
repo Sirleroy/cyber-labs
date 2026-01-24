@@ -1,0 +1,22 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python / tool caches
+__pycache__/
+*.log
+
+# Virtual machines
+*.ova
+*.ovf
+*.vmdk
+*.vdi
+*.qcow2
+
+# Environment / secrets
+.env
+*.key
+*.pem
+
+# Large captures (optional)
+*.pcapng
